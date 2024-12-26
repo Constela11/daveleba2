@@ -1,0 +1,5 @@
+<TextView android:id="@+id/senderTextView"... />
+
+<TextView android:id="@+id/messageTextView"... />
+
+<TextView android:id="@+id/timestampTextView"... />
